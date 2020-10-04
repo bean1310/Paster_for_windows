@@ -17,7 +17,8 @@ namespace Paster_for_windows
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TaskIcon());
+            var form = new TaskIcon();
+            Application.Run();
         }
     }
 }
