@@ -1,6 +1,6 @@
 ﻿namespace Paster_for_windows
 {
-    partial class Form1
+    partial class TaskIcon
     {
         /// <summary>
         ///  Required designer variable.

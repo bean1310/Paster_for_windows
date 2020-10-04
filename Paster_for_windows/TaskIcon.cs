@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Paster_for_windows
 {
-    public partial class Form1 : Form
+    public partial class TaskIcon : Form
     {
-        public Form1()
+        public TaskIcon()
         {
             InitializeComponent();
         }
